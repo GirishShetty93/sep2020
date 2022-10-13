@@ -1,5 +1,5 @@
  Potential Git Workflows
-
+ffdfsdg
 When choosing a Git workflow it is important to consider your team's needs. A simple workflow can maximise development speed and flexibility, while a more complex workflow can ensure greater consistency and control of work in progress. You can adapt and combine the general approaches listed below to suit your needs and the different roles on your team. A core developer might use feature branches while a contractor works from a fork, for example.
 
     A centralized workflow provides the closest match to common SVN processes, so it's a good option to get started.
