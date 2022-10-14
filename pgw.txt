@@ -8,3 +8,4 @@ When choosing a Git workflow it is important to consider your team's needs. A si
     Finally, consider a forking workflow if you need maximum isolation and control over changes, or have many developers contributing to one repository.
 
 But, if you really want to get the most out of Git as a professional team, you should consider the feature branch workflow. This is a truly distributed workflow that is highly secure, incredibly scalable, and quintessentially agile.
+new tesj]
